@@ -312,7 +312,7 @@ Here are detailed 10-mark answers (minimum 500 words each in bullet format) for 
 
 ## **Q7. Describe the concept of virtualization (4) & How it supports cloud computing (6)**
 
-### 🔹 **Concept of Virtualization (4 Marks)**
+### 🔹 **Concept of Virtualization (4 Marks)** axs
 
 * Virtualization is the process of **creating a virtual version** of hardware, software, storage, or networks.
 * It enables multiple **virtual machines** to run on a single physical system.
